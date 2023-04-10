@@ -1,0 +1,39 @@
+body {
+color: black;
+font-family: Play, sans-serif;
+font-size: 24px;
+font-style: normal;
+}
+
+p {
+line-height: 24px;
+text-align: justify;
+text-indent: 24px;
+}
+
+h1 {
+font-weight: 800;
+font-size: 32px;
+line-height: 28px;
+}
+
+ul {
+font-size: 24px;
+list-style-image: url(images/ul-pic-white-yellow.png);
+}
+
+a {
+color: blue;
+}
+
+a:hover {
+color: red;
+}
+
+a:visited {
+color: green;
+}
+
+.visited-blue:visited {
+color: blue;
+}
